@@ -25,7 +25,7 @@
         "Ghost",
         "Fairy"
       ],
-      "next_evolution": [
+      "previous_evolution": [
         {
           "num": "280",
           "name": "Ralts"
@@ -66,7 +66,7 @@
         "Land",
         "Water"
       ],
-      "next_evolution": [
+      "previous_evolution": [
         {
           "num": "299",
           "name": "Nosepass"
@@ -97,7 +97,7 @@
         "Sinister",
         "Ghost"
       ],
-      "next_evolution": [
+      "previous_evolution": [
         {
           "num": "355",
           "name": "Duskull"
@@ -136,7 +136,7 @@
         "Rock",
         "Steel"
       ],
-      "next_evolution": [
+      "previous_evolution": [
         {
           "num": "361",
           "name": "Snorunt"
@@ -175,7 +175,7 @@
       "next_evolution": [
         {
           "num": "000",
-          "name": "None"
+          "name": "This is the final"
         }
       ]
     },
@@ -207,7 +207,7 @@
       "next_evolution": [
         {
           "num": "000",
-          "name": "None"
+          "name": "This is the final"
         }
       ]
     },
@@ -239,7 +239,7 @@
       "next_evolution": [
         {
           "num": "000",
-          "name": "None"
+          "name": "This is the final"
         }
       ]
     },
@@ -271,7 +271,7 @@
       "next_evolution": [
         {
           "num": "000",
-          "name": "None"
+          "name": "This is the final"
         }
       ]
     },
@@ -303,7 +303,7 @@
       "next_evolution": [
         {
           "num": "000",
-          "name": "None"
+          "name": "This is the final"
         }
       ]
     },
@@ -335,7 +335,7 @@
       "next_evolution": [
         {
           "num": "000",
-          "name": "None"
+          "name": "This is the final"
         }
       ]
     },
@@ -368,7 +368,7 @@
       "next_evolution": [
         {
           "num": "000",
-          "name": "None"
+          "name": "This is the final"
         }
       ]
     },
@@ -398,7 +398,7 @@
       "next_evolution": [
         {
           "num": "000",
-          "name": "None"
+          "name": "This is the final"
         }
       ]
     },
@@ -433,7 +433,7 @@
       "next_evolution": [
         {
           "num": "000",
-          "name": "None"
+          "name": "This is the final"
         }
       ]
     },
@@ -465,7 +465,7 @@
       "next_evolution": [
         {
           "num": "000",
-          "name": "None"
+          "name": "This is the final"
         }
       ]
     },
@@ -496,7 +496,7 @@
       "next_evolution": [
         {
           "num": "000",
-          "name": "None"
+          "name": "This is the final"
         }
       ]
     },
@@ -527,7 +527,7 @@
       "next_evolution": [
         {
           "num": "000",
-          "name": "None"
+          "name": "This is the final"
         }
       ]
     },
@@ -559,7 +559,7 @@
       "next_evolution": [
         {
           "num": "000",
-          "name": "None"
+          "name": "This is the final"
         }
       ]
     },
@@ -593,7 +593,7 @@
       "next_evolution": [
         {
           "num": "000",
-          "name": "None"
+          "name": "This is the final"
         }
       ]
     },
@@ -623,7 +623,7 @@
       "next_evolution": [
         {
           "num": "000",
-          "name": "None"
+          "name": "This is the final"
         }
       ]
     }
