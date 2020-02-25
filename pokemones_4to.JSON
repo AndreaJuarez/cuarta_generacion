@@ -38,6 +38,12 @@
           "num": "282",
           "name": "Gardevoir"
         }
+      ],
+      "next_evolution":[
+        {
+          "num":"000",
+          "name":"This is the final"
+        }
       ]
     },
 
@@ -70,6 +76,12 @@
         {
           "num": "299",
           "name": "Nosepass"
+        }
+      ],
+      "next_evolution":[
+        {
+          "num":"000",
+          "name":"This is the final"
         }
       ]
     },
@@ -105,6 +117,12 @@
         {
           "num": "356",
           "name": "Dusclops"
+        }
+      ],
+      "next_evolution":[
+        {
+          "num":"000",
+          "name":"This is the final"
         }
       ]
     },
@@ -144,6 +162,12 @@
         {
           "num": "362",
           "name": "Glalie"
+        }
+      ],
+      "next_evolution":[
+        {
+          "num":"000",
+          "name":"This is the final"
         }
       ]
     },
